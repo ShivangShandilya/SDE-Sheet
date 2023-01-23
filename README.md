@@ -18,5 +18,5 @@ For in-depth knowledge of every question do visit Striver's Youtube Channel [tak
 ### Hope it helps other folks out there. Happy Coding !!
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/101946115/205871025-fee96ee6-afe5-4563-b950-5c5bd9403a27.gif" alt="Sublime's custom image"/>
+  <img src="https://user-images.githubusercontent.com/101946115/205871025-fee96ee6-afe5-4563-b950-5c5bd9403a27.gif" alt="Sublime's custom image" height = 300 width = 300/>
 </p>
