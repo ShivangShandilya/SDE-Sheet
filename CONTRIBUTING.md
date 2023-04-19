@@ -38,7 +38,7 @@
 git clone https://github.com/<your-github-username>/SDE-Sheet
 ```
 
-**3.** Navigate to the newly created CodeOpsEditor project directory:
+**3.** Navigate to the newly created SDE-Sheet project directory:
 
 ```bash
 cd SDE-Sheet
@@ -99,7 +99,7 @@ git push origin YourBranchName
 
 **11.** **Congratulations!** You've made your first contribution to **SDE-Sheet**! 🙌🏼
 
-**_:trophy: After this, the maintainers will review the PR and will merge it if it helps move the CodeOpsEditor project forward. Otherwise, it will be given constructive feedback and suggestions for the changes needed to add the PR to the codebase._**
+**_:trophy: After this, the maintainers will review the PR and will merge it if it helps move the SDE-Sheet project forward. Otherwise, it will be given constructive feedback and suggestions for the changes needed to add the PR to the codebase._**
 
 ---
 
@@ -128,7 +128,7 @@ In order to discuss changes, you are welcome to [open an issue](https://github.c
 
 ## 🛡️ License
 
-CodeOpsEditor is licensed under the MIT LICENSE - see the [`LICENSE`](https://github.com/ShivangShandilya/SDE-Sheet/blob/main/LICENSE.md) file for details.
+SDE-Sheet is licensed under the MIT LICENSE - see the [`LICENSE`](https://github.com/ShivangShandilya/SDE-Sheet/blob/main/LICENSE.md) file for details.
 
 
 ## 🙏 Support
