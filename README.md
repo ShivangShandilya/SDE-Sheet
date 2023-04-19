@@ -23,6 +23,10 @@ Take a look at [`Contributing Guide`](https://github.com/ShivangShandilya/SDE-Sh
 
 SDE-Sheet is licensed under the MIT LICENSE - see the [`LICENSE`](https://github.com/ShivangShandilya/SDE-Sheet/blob/main/LICENSE.md) file for details.
 
+## 🙏 Support
+
+This project needs a ⭐️ from you. Don't forget to leave a star ⭐️
+
 ### Hope it helps other folks out there. Happy Coding !!
 
 <p align="center">
