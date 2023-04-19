@@ -2,7 +2,7 @@
 
 # SDE-Sheet ( All Important Questions )
 
-This is a repository which holds all the answers for [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/). This repository provides only optimized solutions of all the problems in Java.
+This is a repository which holds all the answers for [`Striver's SDE Sheet`](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/). This repository provides only optimized solutions of all the problems in Java.
 
 ## What is SDE Sheet? 
 
@@ -13,7 +13,15 @@ SDE Sheet contains very handily crafted and picked top coding interview question
 ## Point to be Noted
 
 This repository was made in order to record my progress and help other students who took upon themselves to solve this sheet. Cheating is not promoted and not even advised as this sheet contains only the optimised solutions of the problems which is not helpful if you dont know the base approach.
-For in-depth knowledge of every question do visit Striver's Youtube Channel [takeUforward](https://www.youtube.com/@takeUforward).
+For in-depth knowledge of every question do visit Striver's Youtube Channel [`takeUforward`](https://www.youtube.com/@takeUforward).
+
+## How to Contribute to SDE-Sheet?
+
+Take a look at [`Contributing Guide`](https://github.com/ShivangShandilya/SDE-Sheet/blob/main/CONTRIBUTING.md) and also remember to follow [`Code Of Conduct`](https://github.com/ShivangShandilya/SDE-Sheet/blob/main/CODE_OF_CONDUCT.md)
+
+## 🛡️ License
+
+SDE-Sheet is licensed under the MIT LICENSE - see the [`LICENSE`](https://github.com/ShivangShandilya/SDE-Sheet/blob/main/LICENSE.md) file for details.
 
 ### Hope it helps other folks out there. Happy Coding !!
 
