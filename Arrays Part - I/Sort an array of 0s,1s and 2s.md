@@ -11,7 +11,7 @@ Problem - [Sort an array of 0s,1s and 2s](https://leetcode.com/problems/sort-col
        Output: [0,1,2]
 
        Input: nums = [0]
-       Input: nums = [0]
+       Output: [0]
        
 
 - Solution
